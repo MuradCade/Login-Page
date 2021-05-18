@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(49, 218, 218);
+    text-align: center;
+    margin-top: 300px;
+  
+}
+
+#btn{
+    background-color: rgb(161, 161, 15);
+    width: 90px;
+    height: 50px;
+    border-radius: 20px;
+
+}
